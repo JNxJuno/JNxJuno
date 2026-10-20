@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like to play video games, Gym gainzzzz. Coding lowkey fun till the moment the code breakes 💀
+I like to play video games, hitting the Gym. Coding is lowkey fun till the moment the code breakes 💀
 
 
 # 💻 Tech Stack:
