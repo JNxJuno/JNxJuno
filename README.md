@@ -18,7 +18,7 @@
 
 ###
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=seovlpcq5v0gnu4strd1uaq1g&width=470&unique=1&bg_color=1a1d24&text_color=e6eaef&artist_color=8b9cb0&meta_color=5c6b7d&accent_color=3a7ad2&logo_color=ece7e7)
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=seovlpcq5v0gnu4strd1uaq1g&width=650&unique=1&footer=wave&bg_color=1a1d24&text_color=e6eaef&artist_color=8b9cb0&meta_color=5c6b7d&accent_color=3a7ad2&logo_color=ece7e7)](https://open.spotify.com/user/seovlpcq5v0gnu4strd1uaq1g)
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
