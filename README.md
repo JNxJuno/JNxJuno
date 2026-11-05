@@ -1,112 +1,20 @@
-<div align="center">
+@@ -1,18 +1,18 @@
+# 💫 About Me:
+I like to play video games, Gym gainzzzz. Coding lowkey fun till the moment the code breakes 💀
 
-<img src="assets/header.svg" alt="JNxJuno - Eigenschaften" width="100%">
 
-</div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=JNxJuno&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=JNxJuno&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JNxJuno&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<table width="100%">
-<tr>
-<td bgcolor="#D4D0C8" width="100%">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JNxJuno&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🖥️ Willkommen auf meinem Desktop!
+---
+[![](https://komarev.com/ghpvc/?username=JNxJuno&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Hi, ich bin Juto.**
-Ich baue gerne Dinge: Embedded-Systeme, Spiele-Mods und alles, was mit Linux-Desktop-Customization zu tun hat.
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" bgcolor="#D4D0C8">
-
-#### 📁 Systeminformationen
-
-| Eigenschaft | Wert |
-|---|---|
-| Benutzer | `Juto` |
-| Betriebssystem | Linux (btw) |
-| Sprachen | Deutsch, English |
-| Interessen | Embedded, Gamedev, Rice |
-| Status | ✅ Online |
-
-</td>
-<td width="50%" valign="top" bgcolor="#D4D0C8">
-
-#### 🛠️ Installierte Programme
-
-| Programm | Typ |
-|---|---|
-| C / C++ | Embedded |
-| Python | Skripte |
-| JavaScript / MakeCode | Calliope Mini |
-| Java | Minecraft Mods |
-| Haxe | FNF Engine Mods |
-| QML | Quickshell |
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td bgcolor="#D4D0C8">
-
-#### 💾 Meine Projekte
-
-| | Name | Beschreibung |
-|:-:|---|---|
-| 🎵 | **Lyrics Mod** | Fabric-Mod für Minecraft mit Dynamic-Island-HUD und Spotify/MPRIS-Lyrics |
-| 🎮 | **Codename Engine Mod** | Eigenes Hauptmenü und Transitions für Friday Night Funkin' |
-| 🐧 | **Quickshell-Config** | Modulare QML-Konfiguration für Hyprland |
-| 🤖 | **Calliope RPS** | Schere-Stein-Papier für zwei Calliope Mini V2 |
-| 🌐 | **Overload Engine Site** | Website für die FNF-Engine, gehostet auf GitHub Pages |
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td bgcolor="#D4D0C8">
-
-#### 📊 GitHub-Statistiken
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JNxJuno&show_icons=true&hide_border=true&bg_color=D4D0C8&title_color=0A246A&text_color=000000&icon_color=0A246A&ring_color=0A246A" alt="Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JNxJuno&layout=compact&hide_border=true&bg_color=D4D0C8&title_color=0A246A&text_color=000000" alt="Top Sprachen">
-</p>
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td bgcolor="#D4D0C8">
-
-#### ⚠️ Systemmeldung
-
-```
-+--------------------------------------------------+
-| ⚠  Fehler                                   [ X ] |
-+--------------------------------------------------+
-|                                                  |
-|  Zu wenig Kaffee. Programm läuft trotzdem.       |
-|                                                  |
-|            [  OK  ]     [ Abbrechen ]            |
-+--------------------------------------------------+
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="assets/taskbar.svg" alt="Taskleiste" width="100%">
-
-<sub>Best viewed in Internet Explorer 5.0 · 1024×768 · 16 Bit Farbe</sub>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
