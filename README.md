@@ -17,8 +17,11 @@
 </div>
 
 ###
-
-[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=seovlpcq5v0gnu4strd1uaq1g&width=650&unique=1&footer=wave&bg_color=1a1d24&text_color=e6eaef&artist_color=8b9cb0&meta_color=5c6b7d&accent_color=3a7ad2&logo_color=ece7e7)](https://open.spotify.com/user/seovlpcq5v0gnu4strd1uaq1g)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=seovlpcq5v0gnu4strd1uaq1g&amp;theme=dark&amp;width=650&amp;unique=1&amp;duration=1&amp;footer=wave&amp;bg_color=1a1d24&amp;text_color=e6eaef&amp;artist_color=8b9cb0&amp;meta_color=5c6b7d&amp;accent_color=3a7ad2&amp;logo_color=ece7e7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=seovlpcq5v0gnu4strd1uaq1g&amp;theme=light&amp;width=650&amp;unique=1&amp;duration=1&amp;footer=wave&amp;bg_color=1a1d24&amp;text_color=e6eaef&amp;artist_color=8b9cb0&amp;meta_color=5c6b7d&amp;accent_color=3a7ad2&amp;logo_color=ece7e7" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=seovlpcq5v0gnu4strd1uaq1g&amp;theme=dark&amp;width=650&amp;unique=1&amp;duration=1&amp;footer=wave&amp;bg_color=1a1d24&amp;text_color=e6eaef&amp;artist_color=8b9cb0&amp;meta_color=5c6b7d&amp;accent_color=3a7ad2&amp;logo_color=ece7e7" alt="Spotify recently played" width="650" />
+</picture>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
